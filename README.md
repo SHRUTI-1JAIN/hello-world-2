@@ -3,5 +3,5 @@ Just Beggining
 
 Hey!
 I like C++. 
-You lier. you hate c++.
+You lier. you LIKE c++.
 
